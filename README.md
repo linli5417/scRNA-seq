@@ -1,4 +1,4 @@
-# Single-cell sequencing reveals synthetic phenotype transition in VSMCs
+![image](https://github.com/linli5417/scRNA-seq/assets/127191098/b8e570ea-87c0-4377-8c27-e686fa476984)# Single-cell sequencing reveals synthetic phenotype transition in VSMCs
 
 # 1 Description
 
@@ -6,21 +6,17 @@ Placental ischemia due to inadequate remodeling of the uterine spiral arteries (
 
 # 2 Requirements
 
-Before running, please make sure the following packages are installed in Python environment:
+Before running, please make sure the following packages are installed in R environment:
 
-python==3.8
+R==4.3.1
 
-numpy==1.24.2
+Seurat==5.0.1
 
-pandas==1.5.3
+ggplot2==3.5.0
 
-joblib==1.2.0
+GSVA==1.50.0
 
-scikit-learn==1.2.1
-
-scipy==1.10.1
-
-xgboost==1.7.4
+monocle==2.30.0
 
 
 
