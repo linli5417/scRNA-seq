@@ -1,4 +1,4 @@
-![image](https://github.com/linli5417/scRNA-seq/assets/127191098/b8e570ea-87c0-4377-8c27-e686fa476984)# Single-cell sequencing reveals synthetic phenotype transition in VSMCs
+# Single-cell sequencing reveals synthetic phenotype transition in VSMCs
 
 # 1 Description
 
